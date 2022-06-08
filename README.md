@@ -1,11 +1,3 @@
-<h1 align="center">
-  <br>
-    <img src="https://s7.gifyu.com/images/yt5scom-Animation-blue-backgroun-1.gif" width="350" height="240">
-    <br>
-    BruTalCODE Official profile
-    <br>
-</h1>
-
 <pre>
 
 ╔═════════════════════════════════════════════════╗
@@ -16,11 +8,11 @@
 =================|
 -- Java ☕     ==|
 =================|
-                |
+                 |
 =================|
 -- Python 🐍   ==|
 =================|
-		    |
+		 |
 =================|
 -- C/C++/C# ⚙️ ==| 
 =================|
