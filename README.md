@@ -8,26 +8,30 @@
 
 <pre>
 
-🌪️ BruTalCODE 🌪️  ///  🗲 Under BruTalCODES™ 🗲
+╔═════════════════════════════════════════════════╗
+┇ 🌪️ BruTalCODE 🌪️  ///  🗲 Under BruTalCODES™ 🗲 ┇
+╚═════════════════════════════════════════════════╝
 
 
-================
--- Java ☕  =====
-================
+=================|
+-- Java ☕     ==|
+=================|
+                |
+=================|
+-- Python 🐍   ==|
+=================|
+		    |
+=================|
+-- C/C++/C# ⚙️ ==| 
+=================|
 
-=================
--- Python 🐍  ====
-=================
 
-=================
--- C/C++/C# ⚙️ ====
-=================
+=--=--=--==--=--=--==--=--=--= My Projects =--=--=--==--=--=--==--=--=--=
 
+§.1 -> BruTalCODES (My main development team)
 
-=--=--=--= My Projects =--=--=--=
+§.2 -> BruTal (My main system for my hosting, attacks, hosting and more things...)
 
-§ BruTalCODES (My main development team)
+§.3 -> Eternal Games Studio (Studio for creating games)
 
-§ BruTal (My main system for my hosting, attacks, hosting and more things...)
-
-§ Eternal Games Studio (Studio for creating games)
+=--=--=--==--=--=--==--=--=--==--=--=--==--=--=--==--=--=--==--=--=--==--=
