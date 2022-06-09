@@ -30,6 +30,8 @@
 
 §.5 -> NeptuneProtect (TCP and AntiBOT Protection for minecraft servers)
 
-§.6 -> BruTal (My main system for my hosting, attacks, hosting and more things...)
+§.6 -> EGS Launcher (Launcher for Eternal Games Studio for games)
+
+§.7 -> TheGame (Firts game by Eternal Games Studio, for now without name)
 
 =--=--=--==--=--=--==--=--=--==--=--=--==--=--=--==--=--=--==--=--=--==--=
