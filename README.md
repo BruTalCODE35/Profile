@@ -40,14 +40,6 @@
     <img src="https://img.shields.io/badge/git-323540.svg?style=for-the-badge&logo=git&logoColor=5294E2" alt="Git" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Markdown-323540?style=for-the-badge&logo=markdown&logoColor=5294E2" alt="Markdown" style="border-radius:15px"/>
 </div>
-
-<h1 align="center">
-    Discord Status
-</h1>
-<p align="center">
-    <a href="https://github.com/BruTalCODE35">
-      <img src="https://lanyard.cnrad.dev/api/972851052556722186?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Working+on+BruTalCODES" />
-</p>
     
 <h1 align="center">
     My GitHub Stats
