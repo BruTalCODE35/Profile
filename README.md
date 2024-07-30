@@ -45,8 +45,8 @@
     My GitHub Stats
 </h1>
   <p align="center">
-    <a href="https://github.com/BruTalCODE35">
-        <img src="https://github-readme-stats.vercel.app/api?username=BruTalCODE35&show_icons=true&theme=dark" />
-    <a href="https://github.com/BruTalCODE35">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=BruTalCODE35&show_icons=true&theme=dark" />
+    <a href="https://github.com/JankoDanko">
+        <img src="https://github-readme-stats.vercel.app/api?username=JankoDanko&show_icons=true&theme=dark" />
+    <a href="https://github.com/JankoDanko">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JankoDanko&show_icons=true&theme=dark" />
     </a>
